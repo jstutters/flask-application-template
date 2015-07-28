@@ -1,0 +1,7 @@
+Flask
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+Flask-WTF
+pytest
+tox
